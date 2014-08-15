@@ -1,0 +1,1 @@
+Version control for Altium Libraries.
