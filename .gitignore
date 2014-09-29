@@ -1,1 +1,4 @@
 .DS_Store
+*.PcbLib.Zip
+*.SchLib.Zip
+__Previews
