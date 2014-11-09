@@ -1,5 +1,6 @@
 .DS_Store
 *.PcbLib.Zip
 *.SchLib.Zip
+*.LibPkg.Zip
 __Previews
 Project\ Outputs*
