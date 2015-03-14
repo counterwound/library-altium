@@ -1,6 +1,15 @@
+# General
 .DS_Store
-*.PcbLib.Zip
-*.SchLib.Zip
-*.LibPkg.Zip
+*.zip
+*.raw
+*.log
+
+# Altium
+*.AnnotationPreview
+*.err
+*.PrjPCBStructure
+*.PcbDoc.htm
 __Previews
-Project\ Outputs*
+History
+Design\ Rule*.*
+hardware/Project\ Logs*
